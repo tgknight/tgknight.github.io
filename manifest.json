@@ -1,0 +1,15 @@
+{
+  "short_name": "React PWA",
+  "name": "Create React App Sample with Progressive Web App",
+  "icons": [
+    {
+      "src": "github-tgknight-pwa.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#222",
+  "background_color": "#222"
+}
