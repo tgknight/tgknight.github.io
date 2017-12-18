@@ -1,7 +1,7 @@
 {
   "name": "pwa-experiment",
   "version": "0.1.0",
-  "homepage": "http://www.thanapat.top",
+  "homepage": "http://tgknight.github.io",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.1.0",
