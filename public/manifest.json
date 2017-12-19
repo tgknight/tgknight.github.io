@@ -1,6 +1,6 @@
 {
-  "short_name": "React PWA",
-  "name": "Create React App Sample with Progressive Web App",
+  "short_name": "ReactPWA",
+  "name": "CRA with PWA",
   "icons": [
     {
       "src": "github-tgknight-pwa.png",
@@ -8,7 +8,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "./index.html",
+  "scope": "/",
   "display": "standalone",
   "theme_color": "#222",
   "background_color": "#222"
