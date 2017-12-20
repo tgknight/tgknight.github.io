@@ -20,6 +20,9 @@ const Page = ({ title }) => (
     <p>
       <Link to="/settings">Settings</Link>
     </p>
+    <p>
+      <a href="http://sertiscorp.com">sertiscorp</a>
+    </p>
   </div>
 );
 
